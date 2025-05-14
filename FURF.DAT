@@ -1,0 +1,19 @@
+#Data file for cifit
+furfural data from June 6, T=175K
+#12 data points to be read in
+12
+
+# the data themselves, first the time, then
+#the magnetizations of each site
+.1 .0997 -.8768
+30 .0973 .9830
+5 .042 .4517
+4 .0351 .3075
+2 .0357 -.1361
+10 .0744 .8114
+1 .0562 -.4763
+.5 .0755 -.6885
+15 .0905 .9407
+6 .0500 .5688
+.7 .0676 -.6037
+8 .0641 .7201
